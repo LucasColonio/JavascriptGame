@@ -32,7 +32,7 @@ function menutiendaecommerce() {
             case '3':
                 buscarproducto()
                 break;
-            case '4':
+            case '4':   
                 eliminarproducto()
                 break;
             case '5': alert("Gracias por visitarnos")
